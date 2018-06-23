@@ -1,0 +1,9 @@
+= gonew
+Tool to create basic project layout
+
+== Description
+
+For now just a personal tool to create partial basic directory layout
+described in https://github.com/golang-standards/project-layout.
+Partial and personal because it'll be for my needs and therefore will
+probably be good for small to medium sized CLI apps.
